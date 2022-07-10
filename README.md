@@ -25,7 +25,7 @@ This project is a React application. It is created to sharpen the knowledge of R
 ## How to use
 ```bash
 # Clone this repository
-$ git clone https://github.com/i-bilge/Indian-Restaurant-App
+$ git clone https://github.com/i-bilge/Indian-Restaurant-App.git
 
 # Go into the ristorante.app folder
 $ cd ristorante.app
