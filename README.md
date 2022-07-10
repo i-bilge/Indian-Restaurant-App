@@ -25,7 +25,7 @@ This project is a React application. It is created to sharpen the knowledge of R
 ## How to use
 ```bash
 # Clone this repository
-$ git clone https://github.com/obeka/hackyourweather.git
+$ git clone https://github.com/i-bilge/Indian-Restaurant-App
 
 # Go into the ristorante.app folder
 $ cd ristorante.app
@@ -46,4 +46,4 @@ $ npm start
 
 
 ## Contact
-:mailbox_with_mail: You can send me email : ismail.bilge.de@gmail.com :mailbox_with_mail:
+:mailbox_with_mail: You can send me email : iismailbilge@gmail.com :mailbox_with_mail:
