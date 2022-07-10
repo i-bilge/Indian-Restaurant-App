@@ -2,7 +2,6 @@
 > ristorante app gives you a small part from indian menu. You can view detai and comments also.
 
 ## Table of contents
-- [hackyourweather](#hackyourweather)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
