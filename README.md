@@ -15,8 +15,8 @@
 This project is a React application. It is created to sharpen the knowledge of React.js along with props and state property of React  and using local data. It is a part of assignments of The Hong Kong University Of Science - Frontend Developer Course.
 
 ## Technologies
-* React.js - version 16.13.1
-* Sass/Scss
+* React.js - version 18.2.01
+* Sass - version 1.53.0
 
 ## Features
 * Gives the picture and the name of elements in menü
